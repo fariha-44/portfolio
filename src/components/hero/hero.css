@@ -94,9 +94,9 @@
   align-items: center;
 }
 .profile-img {
-  width: 600px;
-  height: 80vh;
+  width: 450px;
+  height: 450px;
   object-fit: cover;
+  border-radius: 50%;
   box-shadow: 0 8px 32px rgba(0,0,0,0.4);
-  border-radius: 0;
 }
